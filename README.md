@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Joaquin, a Bachelor's degree in computer science and software development in Argentina.
+Hi, I'm Joaquin 👋
 
-My main tech Stack is Flutter + Dart with Firebase (Auth + Firestore + Storage) and Riverpod.
+- Computer Science & Software Development student from Argentina
+- Flutter + Dart developer
+- Working with Firebase (Auth, Firestore, Storage)
+- Using Riverpod for state management
 
-Fun Facts:
-- I speak English.
-- I like coffee and tea.
-- Invencible is my fovorite series.
-- Hobbies: football, videogames and music.
+About me:
+• I speak English
+• Coffee & tea enjoyer ☕
+• Favorite series: Invincible
+• Into football, gaming, and music
 
