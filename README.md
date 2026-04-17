@@ -21,8 +21,9 @@ Hi, I'm Joaquin 👋
 - Flutter + Dart developer
 - Working with Firebase (Auth, Firestore, Storage)
 - Using Riverpod for state management
-
+  
 About me:
+
 • I speak English
 • Coffee & tea enjoyer ☕
 • Favorite series: Invincible
